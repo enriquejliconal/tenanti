@@ -28,7 +28,7 @@
         "illuminate/console": "^9.0",
         "illuminate/filesystem": "^9.0",
         "illuminate/support": "^9.0",
-        "enriquejlicona/model": "^7.0",
+        "enriquejlicona/model": "^8.0",
         "orchestra/support": "dev-master"
     },
     "require-dev": {
